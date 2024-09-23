@@ -5,3 +5,7 @@ transformers
 textblob
 scikit-learn
 dateparser
+tensorflow
+torch
+torchvision
+torchaudio
