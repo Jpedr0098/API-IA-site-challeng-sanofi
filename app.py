@@ -3,7 +3,6 @@ from flask_cors import CORS
 import pdfplumber
 import os
 import tempfile
-import joblib
 
 #Imports colab
 from transformers import pipeline
