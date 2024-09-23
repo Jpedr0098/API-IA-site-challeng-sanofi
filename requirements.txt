@@ -1,9 +1,7 @@
 flask
 flask_cors
 pdfplumber
-tempfile
 transformers
 textblob
 scikit-learn
 dateparser
-re
