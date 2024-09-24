@@ -18,6 +18,9 @@ from datetime import datetime
 #Para instalar as libs necessarias rode o comando abaixo:
 #pip install -r requirements.txt
 
+#Para iniciar a IA execute o comando:
+#python app.py
+
 app = Flask(__name__)
 CORS(app)  # Permite requisições de outros domínios
 
