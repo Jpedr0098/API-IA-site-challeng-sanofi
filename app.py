@@ -15,6 +15,9 @@ import dateparser
 import re
 from datetime import datetime
 
+#Para instalar as libs necessarias rode o comando abaixo:
+#pip install -r requirements.txt
+
 app = Flask(__name__)
 CORS(app)  # Permite requisições de outros domínios
 
